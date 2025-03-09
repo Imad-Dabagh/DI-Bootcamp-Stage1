@@ -47,3 +47,8 @@ ul li::first-letter {
   font-size: 14px;
   margin-top: 20px;
 }
+
+.imad {
+  font-size: 35px;
+  border: 10px 1px 5px 20px dashed black;
+}
